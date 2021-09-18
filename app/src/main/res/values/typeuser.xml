@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="user">
+        <item>Selecciona</item>
+        <item>Almacen</item>
+        <item>Agricultor</item>
+        <item>Transportador</item>
+        <item>Comprador</item>
+    </string-array>
+</resources>
